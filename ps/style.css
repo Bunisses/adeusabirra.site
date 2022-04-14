@@ -44,14 +44,14 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color:orangered; #f7ce6a;
+	background-color:greenyellow; #f7ce6a;
 	outline: none;
 	color: black;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: orangered;
+	color: greenyellow;
 }
 
 .black p {
